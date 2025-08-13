@@ -1,0 +1,1 @@
+// content of pages/_app.tsx
